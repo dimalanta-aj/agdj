@@ -4,7 +4,7 @@ title: Blog 0
 
 ---
 
-For this weekly blog, I am going to write about my experiences learning Jekyll and the Markdown language.  
+For this weekly blog, I am going to write about my experiences learning Jekyll and the Markdown language.
 I'll admit that getting into this assignemt seemed intimidating, due to my lack of experience in github, but it is actually an exciting feeling to be hands on in this area.  
 Setting up Jekyll was simple enough, by simply following the instructions set on the jekyll page on github, but apparently you must learn ruby in order to fully indulge in using jekyll.
 
