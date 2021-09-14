@@ -1,10 +1,7 @@
 ---
 layout: post
 title: Blog 0
-gh-repo: daattali/beautiful-jekyll
 
-tags: [test]
-comments: true
 ---
 
 For this weekly blog, I am going to write about my experiences learning Jekyll and the Markdown language.  
