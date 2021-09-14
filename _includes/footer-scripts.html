@@ -1,4 +1,4 @@
-{% if layout.common-ext-js %}
+<!--{% if layout.common-ext-js %}
   {% for js in layout.common-ext-js %}
     {% include ext-js.html js=js %}
   {% endfor %}
@@ -6,7 +6,7 @@
 
 {% if layout.common-js %}
   {% for js in layout.common-js %}
-    <!-- doing something a bit funky here because I want to be careful not to include JQuery twice! -->
+    <!-- doing something a bit funky here because I want to be careful not to include JQuery twice! 
     {% if js contains 'jquery' %}
       <script>
         if (typeof jQuery == 'undefined') {
@@ -36,3 +36,4 @@
     <script src="{{ js | relative_url }}"></script>
   {% endfor %}
 {% endif %}
+-->
