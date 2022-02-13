@@ -1,0 +1,5 @@
+For this week's blog, I will write about my experience with creating an EC2 instance using Terraform. For our 481 project, I am responsible for setting up
+our website's infrastructure with AWS, and we chose to use terraform to accomplish the goal of automation. For this task, I referenced and followed [this guide](https://learn.hashicorp.com/tutorials/terraform/aws-build?in=terraform/aws-get-started).
+The first step is to install the Terraform CLI and the AWS CLI. This allows us to use aws and terraform commands. I then created a folder for our main.tf file to go under.
+I've learned some useful commands during this task, such as <code>fmt</code>, <code>validate</code>, and <code>apply</code>. All of these commands are necessary to push any 
+edits or configuration to the terraform file. I also learned the commmand <code>show</show>, which is a valuable command to display your instances current state. 
